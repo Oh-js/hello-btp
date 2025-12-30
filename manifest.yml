@@ -1,0 +1,7 @@
+applications:
+- name: hello-btp
+  memory: 128M
+  buildpacks:
+    - nodejs_buildpack
+  command: npm start
+  path: .
