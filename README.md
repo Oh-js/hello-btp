@@ -7,7 +7,6 @@ Node.js Hello World app deployed on SAP BTP
 npm install
 npm start
 
-```markdown
 ## Deployment URL
 https://hello-btp.cfapps.ap21.hana.ondemand.com
 
