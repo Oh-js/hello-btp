@@ -14,5 +14,3 @@ https://hello-btp.cfapps.ap21.hana.ondemand.com
 - Day 1: Learned how to set up SAP BTP Trial and deploy a Node.js Hello World app to the cloud.  
   (Deployment URL at the time: https://hello-btp.cfapps.ap21.hana.ondemand.com — may expire after trial)
 
-## Deployment Screenshot
-![Hello world from SAP BTP](images/SAP_BTP_DAY1.png)
